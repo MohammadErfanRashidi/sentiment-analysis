@@ -27,10 +27,14 @@ seaborn==0.12.2
 
 1. **Prepare your dataset:**
    - Replace `YourDataSet.csv` in the code with the path to your own dataset.
+   - Replace `TestFile.txt` with the text file on which you want to do sentiment analysis.
    - Ensure your dataset has columns for sentiment labels and text.
 
 2. **Run the notebook:**
    - Execute the code cells in the provided Jupyter Notebook.
+  
+3. **Results:**
+   - Positive, negative, and neutral sentences will be stored in three different files.
 
 ## Components
 
